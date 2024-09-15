@@ -1,2 +1,4 @@
 # About-me
-Mit personlige je
+Mit personlige jeg
+
+Jeg koder i C#
